@@ -1,9 +1,9 @@
-# IP¶ÎÆ¥Åä
+# IPæ®µåŒ¹é…
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 
-# ¹úÍâDNS
+# å›½å¤–DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-# ÆäËûÍøÕ¾
+# å…¶ä»–ç½‘ç«™
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 
-# ÎÒ×Ô¼º»áÓÃµ½µÄ
+# æˆ‘è‡ªå·±ä¼šç”¨åˆ°çš„
 DOMAIN-SUFFIX,9xbud.com
 DOMAIN-SUFFIX,9xbuddy.in
 DOMAIN-SUFFIX,flyingbird.pro
