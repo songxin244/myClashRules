@@ -54,6 +54,9 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,9xbud.com
 DOMAIN-SUFFIX,9xbuddy.in
 DOMAIN-SUFFIX,flyingbird.pro
+*.bulianglin.com
+*.tw
+*.oracle.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
